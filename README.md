@@ -1,5 +1,5 @@
 # GameOfLife
-This is a Java implementation of Conway's "Game Of Life" simulation.
+This is a Java implementation of Conway's "Game Of Life" simulation. Run from file `GOL.java`.
 
 # Description
 Conway’s “Game of Life” (GOL) is an Artificial Life simulation. GOL is a type of “Cellular Automata” (CA), CAs in general are of interest since they have been shown to be decomposable to a Turing Machine, and as such can perform computation and evaluate logical expressions. CAs are naturally parallel which makes them of great interest for study; applications include image processing, medical modelling and oil slick simulations.
